@@ -33,7 +33,7 @@ const MenuMobile = () => {
 
             <ul className="flex flex-col gap-6 text-[#B01212]">
               <li className='font-bold'>
-                <NavLink to="/" onClick={toggleMenu} className={({ isActive }) =>
+                <NavLink to="/Home" onClick={toggleMenu} className={({ isActive }) =>
                   isActive
                     ? "cursor-pointer text-[#4A4DFF] border-b-2"
                     : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2"

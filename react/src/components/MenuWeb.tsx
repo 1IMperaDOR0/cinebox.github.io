@@ -7,7 +7,7 @@ const MenuWeb = () => {
             <ul className="flex gap-7">
                 <li className='font-bold'>
                 <NavLink
-                    to="/"
+                    to="/Home"
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"
