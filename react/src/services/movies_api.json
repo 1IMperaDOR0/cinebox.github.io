@@ -2,7 +2,7 @@
     {
         "id": 0,
         "nome": "Interestelar",
-        "imagem": "/images/interestelar.jpg",
+        "imagem": "images/interestelar.jpg",
         "indicacao": 0,
         "ano": 2014,
         "genero": "Ficção-científica",
@@ -27,7 +27,7 @@
     {
         "id": 2,
         "nome": "Wall-e",
-        "imagem": "/images/walle.jpg",
+        "imagem": "images/walle.jpg",
         "indicacao": 0,
         "ano": 2005,
         "genero": "Animação",
@@ -52,7 +52,7 @@
     {
         "id": 3,
         "nome": "Formula 1: O Filme",
-        "imagem": "/images/f1.png",
+        "imagem": "images/f1.png",
         "indicacao": 0,
         "ano": 2025,
         "genero": "Drama",
@@ -77,7 +77,7 @@
     {
         "id": 4,
         "nome": "Avatar",
-        "imagem": "/images/avatar.jpg",
+        "imagem": "images/avatar.jpg",
         "indicacao": 0,
         "ano": 2009,
         "genero": "Ficção-científica",
@@ -102,7 +102,7 @@
     {
         "id": 5,
         "nome": "Jurassic Park",
-        "imagem": "/images/jurassicpark.png",
+        "imagem": "images/jurassicpark.png",
         "indicacao": 0,
         "ano": 1993,
         "genero": "Ficção-científica",
@@ -127,7 +127,7 @@
     {
         "id": 6,
         "nome": "Toy Story",
-        "imagem": "/images/toystory.jpg",
+        "imagem": "images/toystory.jpg",
         "indicacao": 0,
         "ano": 1995,
         "genero": "Animação",
@@ -152,7 +152,7 @@
     {
         "id": 7,
         "nome": "Carros",
-        "imagem": "/images/carros.png",
+        "imagem": "images/carros.png",
         "indicacao": 0,
         "ano": 2014,
         "genero": "Animação",
@@ -177,7 +177,7 @@
     {
         "id": 8,
         "nome": "Top Gun: Maverick",
-        "imagem": "/images/topgun.png",
+        "imagem": "images/topgun.png",
         "indicacao": 0,
         "ano": 2022,
         "genero": "Ação",
@@ -202,7 +202,7 @@
     {
         "id": 9,
         "nome": "Oppenheimer",
-        "imagem": "/images/oppenheimer.png",
+        "imagem": "images/oppenheimer.png",
         "indicacao": 0,
         "ano": 2023,
         "genero": "Suspense biográfico",
@@ -227,7 +227,7 @@
     {
         "id": 10,
         "nome": "A Era do Gelo",
-        "imagem": "/images/aeradogelo.png",
+        "imagem": "images/aeradogelo.png",
         "indicacao": 0,
         "ano": 2002,
         "genero": "Animação",
