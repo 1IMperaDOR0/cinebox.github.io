@@ -49,7 +49,7 @@ function Perfil() {
       <div className="max-w-7xl mx-auto">
         
 
-        <div className="mt-10 w-xl mx-auto bg-white text-gray-800 rounded-2xl shadow-2xl p-8 mb-12 flex flex-col items-center">
+        <div className="mt-10 w-xl mx-auto bg-white text-gray-800 rounded-2xl shadow-2xl p-8 mb-12 flex flex-col items-center max-w-[75%]">
           <img
             src={userData.imagemPerfil}
             alt="Foto do Perfil"
@@ -60,7 +60,7 @@ function Perfil() {
           <p className="text-gray-500 mt-1 ">{userData.email}</p>
           <p className="text-gray-500 text-sm mt-2">Membro desde: {userData.membroDesde}</p>
 
-          <div className="flex gap-5 mt-8">
+          <div className="flex lg:flex-row md:flex-row flex-col gap-5 mt-8">
             <button className="bg-[#4A4DFF] text-white py-2 px-6 rounded-lg hover:bg-[#0F13FC] cursor-pointer transition-colors duration-300">
               Editar Perfil
             </button>
